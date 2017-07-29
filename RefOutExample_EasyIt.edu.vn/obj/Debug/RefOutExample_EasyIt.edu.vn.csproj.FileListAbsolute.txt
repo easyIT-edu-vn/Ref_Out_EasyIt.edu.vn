@@ -1,0 +1,6 @@
+C:\Users\Tram\Desktop\RefOutExample_EasyIt.edu.vn\RefOutExample_EasyIt.edu.vn\bin\Debug\RefOutExample_EasyIt.edu.vn.exe.config
+C:\Users\Tram\Desktop\RefOutExample_EasyIt.edu.vn\RefOutExample_EasyIt.edu.vn\bin\Debug\RefOutExample_EasyIt.edu.vn.exe
+C:\Users\Tram\Desktop\RefOutExample_EasyIt.edu.vn\RefOutExample_EasyIt.edu.vn\bin\Debug\RefOutExample_EasyIt.edu.vn.pdb
+C:\Users\Tram\Desktop\RefOutExample_EasyIt.edu.vn\RefOutExample_EasyIt.edu.vn\obj\Debug\RefOutExample_EasyIt.edu.vn.csprojResolveAssemblyReference.cache
+C:\Users\Tram\Desktop\RefOutExample_EasyIt.edu.vn\RefOutExample_EasyIt.edu.vn\obj\Debug\RefOutExample_EasyIt.edu.vn.exe
+C:\Users\Tram\Desktop\RefOutExample_EasyIt.edu.vn\RefOutExample_EasyIt.edu.vn\obj\Debug\RefOutExample_EasyIt.edu.vn.pdb
